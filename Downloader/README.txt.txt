@@ -1,0 +1,2 @@
+TO GET THIS TO WORK, RUN THE COMMAND "python3 main.py [link of youtube video], the pathing would be different so you will
+need to change that as well. I'm working on creating UI to make this process easier.
